@@ -31,9 +31,12 @@
 #content .jumbotron {
   border-radius: 0;
   margin: 0;
-  min-height: 100vh;
+  min-height: 50vh;
   background-color: #6c757d;
   color: white;
+}
+#contact .jumbotron {
+  margin: 0;
 }
 footer {
   color: white;
